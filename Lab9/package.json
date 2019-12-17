@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "",
+        "start": "node topSort.js"
+    }
+}

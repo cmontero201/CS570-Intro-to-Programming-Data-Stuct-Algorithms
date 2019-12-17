@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "",
+        "start": "node tictactoe.js"
+    }
+}

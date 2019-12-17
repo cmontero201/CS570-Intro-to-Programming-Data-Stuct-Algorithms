@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "",
+        "start": "node LSR.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.9"
+    }
+}

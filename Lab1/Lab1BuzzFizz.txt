@@ -1,0 +1,31 @@
+Christian Montero
+CS 570 WS
+Lab 1 : BuzzFizz
+August 31, 2018
+
+                          Assignment Contract
+
+From what resources did you directly take code?
+   // There are no resources where code was directly taken was used.
+
+Did you cite these resources directly in your code via comments and make
+it clear where the code that is not yours begins and ends? If you have not
+done so yet, please cite these resources directly in the code so that you
+can answer yes to this question.
+  // N/A
+
+What resources did you use as a reference for your assignment? Other than
+people in your group, with whom did you discuss the assignment?
+  // Eloquent JavaScript Ch2. The assignment was not discussed with anyone.
+
+If you are working in a group, please indicate the names of the group members
+and the contributions that each group member made, including yourself.
+  // N/A
+
+Did all group members materially participate in the submitted version of the
+assignment/lab? If not, who did not participate in this version?
+  // N/A
+
+If this is a resubmission attempt, please detail what changed between the
+versions of the program.
+  // N/A

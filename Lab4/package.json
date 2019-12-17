@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "",
+        "start": "node Lab4.js"
+    }
+}

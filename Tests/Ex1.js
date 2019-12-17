@@ -1,0 +1,28 @@
+"use strict";
+// reads input.txt and prints it in reverse order
+exports.__esModule = true;
+var fs = require("fs");
+var path = require("path");
+fs.readFile(path.join(__dirname, 'input.txt'), function (err, data) {
+    if (err)
+        console.log('The file could not be oppened', err);
+    else {
+        var words = data.toString();
+    }
+    console.log(words.trim());
+    var final = '';
+    for (var i = words.length - 1; i >= 0; i--) {
+        final += words[i];
+    }
+    var wfinal = '';
+    var finalArray = [];
+    words = words.replace(/(\n)/gm, " ");
+    words = words.trim();
+    var warray = words.split(' ');
+    for (var i = warray.length - 1; i >= 0; i--) {
+        finalArray.push(warray[i]);
+    }
+    wfinal = finalArray.join(' ');
+    console.log(final + '\n');
+    console.log(wfinal);
+});
